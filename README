@@ -1,3 +1,2 @@
-### Sample flask app template
-
+# Sample flask app template 
 Readme goes here
