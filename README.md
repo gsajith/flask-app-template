@@ -15,6 +15,10 @@ source venv/bin/activate
 # Install requirements, e.g. Flask, gunicorn
 pip install -r requirements.txt
 
+# Run the app, view it locally at address 127.0.0.1:8000
+gunicorn app:app
+
+
 ... (do work here) ...
 
 # Deactivate virtual environment
