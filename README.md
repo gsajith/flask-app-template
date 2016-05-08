@@ -1,7 +1,7 @@
 # Sample Flask/Python app
 
 ## About the app
-This is a simple template for quickly setting up and running a Python/Flask app.
+This is a simple template for quickly setting up and running a Python/Flask app. It's also got Bootstrap/JQuery/Fontawesome but you can delete that if you hate it.
 
 This setup and app assumes cursory knowledge of:
 - git
