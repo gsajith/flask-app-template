@@ -24,7 +24,12 @@ gunicorn app:app
 
 
 ... (do work here) ...
+... (you'll need to restart the gunicorn app every time you change any python files) ...
+... (but usually not when you change template/css/js files) ...
 
 # Deactivate virtual environment
 deactivate
 ```
+
+## About Me
+http://gsajith.com
