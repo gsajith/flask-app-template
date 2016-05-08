@@ -1,5 +1,12 @@
 # Sample Flask/Python app
 
+## About the app
+This is a simple template for quickly setting up and running a Python/Flask app.
+
+This setup and app assumes cursory knowledge of:
+- git
+- Python
+
 ## Installation
 ```
 # Initialize the git repo, name it whatever you want
@@ -30,6 +37,18 @@ gunicorn app:app
 # Deactivate virtual environment
 deactivate
 ```
+
+## Results
+It should look like this:
+
+![page 1](http://i.imgur.com/D0r7vrk.png)
+
+and this:
+
+![page 2](http://i.imgur.com/40lftb3.png)
+
+## To-Do
+- Add files and instructions about how to set up database and data models (psql probably)
 
 ## About Me
 http://gsajith.com
